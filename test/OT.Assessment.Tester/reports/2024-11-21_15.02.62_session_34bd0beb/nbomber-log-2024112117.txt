@@ -1,0 +1,16 @@
+2024-11-21 17:02:55.701 +02:00 [INF] [ThreadId:1] NBomber 5.7.0 started a new session: 2024-11-21_15.02.62_session_34bd0beb
+2024-11-21 17:02:55.774 +02:00 [INF] [ThreadId:1] NBomber started as single node
+2024-11-21 17:02:55.777 +02:00 [INF] [ThreadId:1] License validation....
+2024-11-21 17:02:55.778 +02:00 [WRN] [ThreadId:1] THIS VERSION IS FREE ONLY FOR PERSONAL USE. You can't use it for an organization.
+2024-11-21 17:02:55.805 +02:00 [INF] [ThreadId:1] Reports folder: C:\Users\admin.dev\Downloads\ot-backend-assessment\test\OT.Assessment.Tester\bin\Debug\net8.0\reports\2024-11-21_15.02.62_session_34bd0beb
+2024-11-21 17:02:55.807 +02:00 [INF] [ThreadId:1] Plugin loaded: HttpMetricsPlugin
+2024-11-21 17:02:55.808 +02:00 [INF] [ThreadId:1] Reporting sinks: no reporting sinks were loaded
+2024-11-21 17:02:55.809 +02:00 [INF] [ThreadId:1] Starting init...
+2024-11-21 17:02:55.813 +02:00 [INF] [ThreadId:1] Start init plugin: HttpMetricsPlugin
+2024-11-21 17:02:55.830 +02:00 [INF] [ThreadId:1] Target scenarios: hello_world_scenario
+2024-11-21 17:02:55.835 +02:00 [INF] [ThreadId:1] Init finished
+2024-11-21 17:02:55.865 +02:00 [INF] [ThreadId:1] Starting bombing...
+2024-11-21 17:03:18.082 +02:00 [WRN] [ThreadId:10] Stopping test early: Stopping test because of too many fails. Scenario 'hello_world_scenario' contains '5000' fails.
+2024-11-21 17:03:18.096 +02:00 [INF] [ThreadId:27] Waiting on scenarios completion...
+2024-11-21 17:03:22.102 +02:00 [INF] [ThreadId:27] Calculating final statistics...
+2024-11-21 17:03:22.371 +02:00 [WRN] [ThreadId:27] THIS VERSION IS FREE ONLY FOR PERSONAL USE. You can't use it for an organization.
